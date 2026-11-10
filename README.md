@@ -1,6 +1,8 @@
 
 # ↓Tube for macOS
 
+🌐 [Leer en español](README.es.md)
+
 ### A native media downloader for macOS
 
 A lightweight macOS application built with SwiftUI that makes it easy to download, convert, and organize audio and video from YouTube and find matching YouTube content for Spotify tracks and playlists.
